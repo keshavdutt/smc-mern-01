@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test:quickFind": "jest ./tests/quickFind.test.ts",
+    "test:quickUnion": "jest ./tests/quickUnion.test.ts"
   },
   "keywords": [],
   "author": "",
