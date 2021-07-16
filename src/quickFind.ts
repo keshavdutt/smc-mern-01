@@ -6,6 +6,6 @@
  *          1        2
  *          \        \
  *           3 - 6    5
- *  - Create connected method. input: node1, node2 -> true if nodes are connected, false if not
+ *  - Create connected method. input: node1, node2 -> boolean
  */
 export class QuickFind {}
