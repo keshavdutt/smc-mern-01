@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test:quickFind": "jest ./tests/quickFind.test.ts",
-    "test:quickUnion": "jest ./tests/quickUnion.test.ts"
+    "test:quickUnion": "jest ./tests/quickUnion.test.ts",
+    "test:wordHeight": "jest ./tests/wordHeight.test.ts"
   },
   "keywords": [],
   "author": "",
